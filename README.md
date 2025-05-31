@@ -1,7 +1,7 @@
 # ScienceQtech-Employee-Performace
 
 ### Objective: 
-To facilitate a better understanding, managers have provided ratings for each employee which will help the HR department to finalize the employee performance mapping. As a DBA, you should find the maximum salary of the employees and ensure that all jobs are meeting the organization's profile standard. You also need to calculate bonuses to find extra cost for expenses. This will raise the overall performance of the organization by ensuring that all required employees receive training.
+The main objective of the "ScienceQtech Employee Performance Mapping" project is to analyse comprehensive employee data to understand performance drivers and enhance workforce efficiency through SQL queries
 
 ### Dataset
 1. Emp_record_table : [EMP_ID], [FIRST_NAME], [LAST_NAME], [GENDER], [ROLE], [DEPT], [EXP], [COUNTRY], [CONTINENT], [SALARY], [EMP_RATING], [MANAGER_ID], [PROJ_ID]
