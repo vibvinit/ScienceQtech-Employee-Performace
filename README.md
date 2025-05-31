@@ -8,6 +8,9 @@ To facilitate a better understanding, managers have provided ratings for each em
 2. proj_table : [PROJECT_ID], [PROJ_NAME], [DOMAIN], [START_DATE], [CLOSURE_DATE], [DEV_QTR], [STATUS]
 3. data_science_team : [EMP_ID], [FIRST_NAME], [LAST_NAME], [GENDER], [ROLE], [DEPT], [EXP], [COUNTRY], [CONTINENT]
 
+### View ER diagram
+[View ER diagram](https://github.com/vibvinit/ScienceQtech-Employee-Performace/blob/main/ER%20diagram.png)
+
 ### Project File
 [ View the Project report file](https://github.com/vibvinit/ScienceQtech-Employee-Performace/blob/main/ScienceQtech%20Employee%20performance%20Mapping.pdf)
 
